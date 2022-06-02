@@ -72,7 +72,7 @@ body {
  * ## links - (_document-setup.scss)
  * ------------------------------------------------------------------- */
 a {
-  color: #0010ec;
+  color: #f1f2f5;
   -webkit-transition: all 0.3s ease-in-out;
   transition: all 0.3s ease-in-out;
 }
@@ -367,7 +367,7 @@ ul.disc li::before {
   width: 8px;
   height: 8px;
   border-radius: 50%;
-  background: #2300ec;
+  background: #d2d1da;
   position: absolute;
   left: -17px;
   top: 11px;
@@ -376,7 +376,7 @@ ul.disc li::before {
 
 dt {
   margin: 0;
-  color: #3f00ec;
+  color: #afa8c0;
 }
 
 dd {
@@ -545,7 +545,7 @@ form,
 }
 
 .line-scale-pulse-out > div {
-  background-color: #2300ec;
+  background-color: #b2aec5;
   width: 4px;
   height: 35px;
   border-radius: 2px;
@@ -1230,8 +1230,9 @@ input::-moz-focus-inner {
   padding: 0;
   position: absolute;
   right: 60px;
-  top: 36px;
+  top: 15px;
 }
+
 
 .home-logo a {
   display: block;
@@ -2159,8 +2160,8 @@ html.no-csstransitions .home-content__main {
  * ------------------------------------------------------------------- */
 .info-toggle {
   z-index: 502;
-  background-color: #000000;
-  border: 1px solid #2de1ea;
+  background-color: #ffffff05;
+  border: 1px solid #ffffff;
   font-family: "metropolis-medium", sans-serif;
   font-size: 12px;
   text-transform: uppercase;
@@ -2205,7 +2206,7 @@ html.no-csstransitions .home-content__main {
   top: 50%;
   right: auto;
   bottom: auto;
-  background-color: #0022ec;
+  background-color: #ffffff68;
   -webkit-transition: background 0.2s ease-in-out;
   transition: background 0.2s ease-in-out;
 }
